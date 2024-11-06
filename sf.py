@@ -15,5 +15,5 @@ data = [
 # Create DataFrame
 df = spark.createDataFrame(data)
 
-# Show the DataFrame
+# Show the DataFrameb
 df.show()
